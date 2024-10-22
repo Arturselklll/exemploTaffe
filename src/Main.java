@@ -18,6 +18,7 @@ public class Main {
         Taffe patrick = new Taffe();
         patrick.andar(20, true);
         patrick.retornarPosicao();
+        .
 
 
     }
